@@ -92,7 +92,7 @@
                                     sizes: "100vw",
                                     priority: !0,
                                     style: {
-                                        width: "50%",
+                                        width: "100%",
                                         height: "auto",
                                         margin: "0 auto"
                                     }
