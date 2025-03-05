@@ -28,18 +28,7 @@
                             marginTop: "6%",
                             marginBottom: "6%"
                         },
-                        children: (0, n.jsx)(l.default, {
-                            src: "",
-                            alt: "Logo",
-                            width: 0,
-                            height: 0,
-                            sizes: "100vw",
-                            priority: !0,
-                            style: {
-                                width: "24%",
-                                height: "auto"
-                            }
-                        })
+
                     }), (() => {
                         let e = t[i];
                         return (0, n.jsxs)("section", {
