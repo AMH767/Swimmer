@@ -1,0 +1,472 @@
+Uri: https://brainnest-data.vercel.app/assets/banners/01.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\banners\01.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/banners/02.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\banners\02.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/01.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\01.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/02.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\02.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/03.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\03.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/04.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\04.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/05.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\05.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/categories/06.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\categories\06.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/onboarding/05.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\onboarding\05.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/onboarding/06.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\onboarding\06.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/onboarding/07.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\onboarding\07.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/12.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\12.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/13.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\13.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/14.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\14.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/16.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\16.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/17.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\17.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/18.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\18.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/19.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\19.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/20.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\20.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/other/21.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\21.png
+Content Type: image/png
+
+Uri: https://brainnest-data.vercel.app/assets/products/01.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\01.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/products/02.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\02.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/products/03.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\03.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/products/04.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\04.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/products/05.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\05.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/products/06.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\products\06.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/users/01.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\users\01.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/users/02.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\users\02.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/users/03.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\users\03.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-data.vercel.app/assets/users/04.jpg
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\users\04.jpg
+Content Type: image/jpeg
+
+Uri: https://brainnest-next-js-pwa.vercel.app/
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/assets/bg/02.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\bg\02.png
+Content Type: image/png
+
+Uri: https://brainnest-next-js-pwa.vercel.app/assets/bg/05.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\bg\05.png
+Content Type: image/png
+
+Uri: https://brainnest-next-js-pwa.vercel.app/assets/logo/01.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\logo\01.png
+Content Type: image/png
+
+Uri: https://brainnest-next-js-pwa.vercel.app/assets/other/11.png
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\assets\other\11.png
+Content Type: image/png
+
+Uri: https://brainnest-next-js-pwa.vercel.app/cart-empty
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\cart-empty.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/categories
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\categories.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/description
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\description.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/edit-profile
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\edit-profile.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/email-verified
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\email-verified.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://brainnest-next-js-pwa.vercel.app/filter
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\filter.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/home
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\home.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/info-saved
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\info-saved.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/leave-a-review
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\leave-a-review.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/manifest.json
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\manifest.json
+Content Type: application/json
+
+Uri: https://brainnest-next-js-pwa.vercel.app/my-promocodes
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\my-promocodes.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/order-history
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\order-history.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/order-history-empty
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\order-history-empty.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/phone-verified
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\phone-verified.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/1
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\1.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\2.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/3
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\3.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/4
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\4.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/5
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\5.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/product/6
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\product\6.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/profile
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\profile.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/promocodes-empty
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\promocodes-empty.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/reviews
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\reviews.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/all
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\all.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Building and Construction
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Building and Construction.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Coding and Robotics
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Coding and Robotics.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Creativity and Arts
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Creativity and Arts.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Educational Games and Puzzles
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Educational Games and Puzzles.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Exploration and Discovery
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Exploration and Discovery.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/shop/Learning Tools and Resources
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\shop\Learning Tools and Resources.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/sign-in
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\sign-in.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/sign-up
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\sign-up.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/sign-up-account-created
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\sign-up-account-created.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/verification/email
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\verification\email.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/verification/phone
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\verification\phone.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/verify-your-email
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\verify-your-email.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/verify-your-phone-number
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\verify-your-phone-number.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/wishlist-empty
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\wishlist-empty.html
+Content Type: text/html
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/2641-0ab7ed435935e227.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\2641-0ab7ed435935e227.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/2692-4c5adec94dc805a4.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\2692-4c5adec94dc805a4.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/2709-cf6aa3f1b43c10e4.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\2709-cf6aa3f1b43c10e4.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/3870-75e408137edb7ea1.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\3870-75e408137edb7ea1.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/4bd1b696-4257e05dd4ed9343.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\4bd1b696-4257e05dd4ed9343.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/7455-100201eefaed8edb.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\7455-100201eefaed8edb.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/cart-empty/page-0c0ab979078662a3.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\cart-empty\page-0c0ab979078662a3.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/categories/page-9a7013d13aa50cf5.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\categories\page-9a7013d13aa50cf5.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/description/page-b75236b68c2ca605.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\description\page-b75236b68c2ca605.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/edit-profile/page-566fac4c7be26934.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\edit-profile\page-566fac4c7be26934.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/email-verified/page-81c1c7cda8a70412.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\email-verified\page-81c1c7cda8a70412.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/filter/page-6ad8b608dfe037a3.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\filter\page-6ad8b608dfe037a3.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/home/page-ad12c3b36496afe0.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\home\page-ad12c3b36496afe0.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/info-saved/page-95d40f11953da970.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\info-saved\page-95d40f11953da970.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/leave-a-review/page-344f65ebeabc637b.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\leave-a-review\page-344f65ebeabc637b.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/loading-54811cc15afc67d5.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\loading-54811cc15afc67d5.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/my-promocodes/page-3404b08ef37190d9.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\my-promocodes\page-3404b08ef37190d9.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/order-history-empty/page-02887f7dfcdce4c5.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\order-history-empty\page-02887f7dfcdce4c5.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/order-history/page-d3fdb09e1e1b99c0.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\order-history\page-d3fdb09e1e1b99c0.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/page-31721c04afc4abe9.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\page-31721c04afc4abe9.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/phone-verified/page-2d3687fabe82c1a8.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\phone-verified\page-2d3687fabe82c1a8.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/product/[id]/page-15ab27a1617eb41e.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\product\[id]\page-15ab27a1617eb41e.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/profile/page-becd57a48b2c3865.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\profile\page-becd57a48b2c3865.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/promocodes-empty/page-4a9f3ec0135182b2.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\promocodes-empty\page-4a9f3ec0135182b2.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/reviews/loading-cf25147884169093.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\reviews\loading-cf25147884169093.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/reviews/page-c60a2e686fd96ee5.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\reviews\page-c60a2e686fd96ee5.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/shop/[category]/page-4576dde0299fb72d.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\shop\[category]\page-4576dde0299fb72d.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/sign-in/page-29563addcc5acbfb.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\sign-in\page-29563addcc5acbfb.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/sign-up-account-created/page-3d5556d5f2f0a39a.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\sign-up-account-created\page-3d5556d5f2f0a39a.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/sign-up/page-b6222fdacdae6fdb.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\sign-up\page-b6222fdacdae6fdb.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/verification/[type]/page-deecaf672476f138.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\verification\[type]\page-deecaf672476f138.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/verify-your-email/page-eeaffd7e910ec8c2.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\verify-your-email\page-eeaffd7e910ec8c2.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/verify-your-phone-number/page-c629581924edba0a.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\verify-your-phone-number\page-c629581924edba0a.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/app/wishlist-empty/page-7e3a6d0e1e1c490a.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\app\wishlist-empty\page-7e3a6d0e1e1c490a.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/main-app-492e92e97ea2549a.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\main-app-492e92e97ea2549a.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/chunks/webpack-8d3b5933852cae63.js
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\chunks\webpack-8d3b5933852cae63.js
+Content Type: application/javascript
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/css/5d131e0653262a6f.css
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\css\5d131e0653262a6f.css
+Content Type: text/css
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/10a3352fc71482ec-s.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\10a3352fc71482ec-s.woff2
+Content Type: font/woff2
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/5e24ed3b309e571b-s.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\5e24ed3b309e571b-s.woff2
+Content Type: font/woff2
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/9445aca19675892f-s.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\9445aca19675892f-s.woff2
+Content Type: font/woff2
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/9b8d9bd9da1c904b-s.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\9b8d9bd9da1c904b-s.woff2
+Content Type: font/woff2
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/ae0a0c671023eecc-s.p.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\ae0a0c671023eecc-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://brainnest-next-js-pwa.vercel.app/_next/static/media/c6e04b5f0940e652-s.p.woff2
+File Name: C:\Downloaded Web Sites\brainnest-next-js-pwa.vercel.app\_next\static\media\c6e04b5f0940e652-s.p.woff2
+Content Type: font/woff2
+
