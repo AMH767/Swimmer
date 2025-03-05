@@ -29,7 +29,7 @@
                             marginBottom: "6%"
                         },
                         children: (0, n.jsx)(l.default, {
-                            src: "/assets/logo/01.png",
+                            src: "",
                             alt: "Logo",
                             width: 0,
                             height: 0,
