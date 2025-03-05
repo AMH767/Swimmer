@@ -259,7 +259,7 @@
                         height: "100%"
                     },
                     children: (0, n.jsx)(a.default, {
-                        src: "output-onlinegiftools.gif",
+                        src: "video_2025-03-05_19-55-09.gif",
                         alt: "Background",
                         priority: !0,
                         sizes: "100vw",
