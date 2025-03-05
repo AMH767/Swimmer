@@ -259,7 +259,7 @@
                         height: "100%"
                     },
                     children: (0, n.jsx)(a.default, {
-                        src: "/assets/bg/02.png",
+                        src: "output-onlinegiftools.gif",
                         alt: "Background",
                         priority: !0,
                         sizes: "100vw",
