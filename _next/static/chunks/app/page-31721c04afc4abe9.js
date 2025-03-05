@@ -68,14 +68,7 @@
                             alignItems: "center",
                             justifyContent: "center"
                         },
-                        children: t.map((e, t) => (0, n.jsx)("div", {
-                            style: {
-                                width: 22,
-                                height: 6,
-                                borderRadius: "4px",
-                                backgroundColor: i === t ? "var(--main-color)" : "#fff"
-                            }
-                        }, e.id))
+                       
                     }), (0, n.jsx)("section", {
                         style: {
                             width: "100%",
